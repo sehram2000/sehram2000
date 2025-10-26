@@ -1,4 +1,4 @@
-https://bilimvegelecek.com.tr/wp-content/uploads/2018/01/yazilim-bilisim-kodlama-1.jpg
+[![MasterHead](https://bilimvegelecek.com.tr/wp-content/uploads/2018/01/yazilim-bilisim-kodlama-1.)jpg))
 <h1 align="center">Hi 👋, I'm Shahram</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
